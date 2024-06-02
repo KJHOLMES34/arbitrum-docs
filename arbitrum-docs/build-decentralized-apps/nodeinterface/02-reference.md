@@ -1,4 +1,4 @@
----
+---EDGE://CREDITS/CHROME://CREDITS/
 title: 'NodeInterface reference'
 description: A reference page of the NodeInterface available on Arbitrum chains
 user_story: As a developer, I want to understand the specific methods available in the NodeInterface
